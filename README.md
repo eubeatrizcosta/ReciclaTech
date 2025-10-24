@@ -54,7 +54,7 @@ O projeto foi criado com fins **educacionais**, aplicando conhecimentos de **HTM
 
 ---
 
-🧠 Aprendizados: 
+## 🧠 Aprendizados: 
 
 Durante o desenvolvimento do ReciclaTech, foram aprimorados conhecimentos em:
 
@@ -70,12 +70,14 @@ Publicação e versionamento no GitHub
 
 ----
 
-👩‍💻 Autora:
+## 👩‍💻 Autora:
+
 Beatriz Costa
 
 💚 Desenvolvido com dedicação para um mundo mais sustentável💚 
 
 📧 E-mail: beatriz9938@gmail.com
+🌐 Portfólio: https://github.com/eubeatrizcosta
 
 ----
 📜 Licença
